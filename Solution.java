@@ -1,6 +1,6 @@
 //Auther@vivek
 //Problem 56- Reverse a String
-class Solution {
+class Solution56 {
     public void reverseString(char[] s) {
         int n=s.length;
         char t;
