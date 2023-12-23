@@ -2,7 +2,7 @@
 //@Author Vivek
 import java.io.*;
 import java.util.*;
-class Solution {
+class Solution57 {
     int isPalindrome(String s) {
         int n=s.length();
         for(int i=0; i<n/2; i++){
